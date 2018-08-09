@@ -1,5 +1,4 @@
 # up-task
-# up-task
 Il faudrait imaginer que nous développons un programme de fidélisation où nous récompensons la fidélité en fonction des achats que les clients font en points cadeaux.
 Exemple : notre client XXXX souhaite récompenser ses clients pour leurs achats en magasins sur certains produits. Ces clients gagnent donc des points cadeaux.
  
